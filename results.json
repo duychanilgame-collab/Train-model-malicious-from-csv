@@ -1,0 +1,68 @@
+[
+  {
+    "file": "sample2.zip",
+    "category": "malware",
+    "risk": {
+      "overall_risk_score": 25,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 1
+    }
+  },
+  {
+    "file": "index.html",
+    "category": "malware",
+    "risk": {
+      "overall_risk_score": 0,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 1
+    }
+  },
+  {
+    "file": "sample1.exe",
+    "category": "malware",
+    "risk": {
+      "overall_risk_score": 10,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 1
+    }
+  },
+  {
+    "file": "sample2.exe",
+    "category": "malware",
+    "risk": {
+      "overall_risk_score": 40,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 1
+    }
+  },
+  {
+    "file": "sample.zip",
+    "category": "malware",
+    "risk": {
+      "overall_risk_score": 25,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 1
+    }
+  },
+  {
+    "file": "ls.bin",
+    "category": "benign",
+    "risk": {
+      "overall_risk_score": 0,
+      "classification": "BENIGN"
+    },
+    "ml_prediction": {
+      "prediction": 0
+    }
+  }
+]

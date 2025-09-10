@@ -1,0 +1,6 @@
+{
+  "tools": {
+    "ghidra": {"path": "/opt/ghidra/ghidra_11.3.2_PUBLIC"},
+    "yara": {"rules_path": "/home/lewis/yara_rules"}
+  }
+}
