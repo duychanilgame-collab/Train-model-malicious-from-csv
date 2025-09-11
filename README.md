@@ -1,5 +1,7 @@
 # Malware Detection System
 
+**Disclaimer**: This repository involves malware analysis tools and techniques. Exercise extreme caution and use proper isolation when handling suspicious files. The authors are not responsible for any misuse or damage.
+
 A machine learning-based malware detection system that integrates reverse engineering techniques with advanced classification algorithms. This project combines static analysis using industry-standard tools with machine learning models to provide comprehensive malware detection capabilities.
 
 ## System Architecture
@@ -287,7 +289,3 @@ This system can be used for:
 **Repository**: [malware_detection](https://github.com/lewisMVP/malware_detection)
 
 For questions or issues, please open a GitHub issue or contact through the repository.
-
----
-
-**Disclaimer**: This repository involves malware analysis tools and techniques. Exercise extreme caution and use proper isolation when handling suspicious files. The authors are not responsible for any misuse or damage.
